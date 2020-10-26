@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="thumbnail" type="id">thumbnail</item>
+    <item name="type" type="id">type</item>
+    <item name="web_title" type="id">web_title</item>
+    <item name="web_publication_date" type="id">web_publication_date</item>
+</resources>
